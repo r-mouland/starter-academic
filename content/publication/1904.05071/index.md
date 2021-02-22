@@ -2,6 +2,7 @@
 title: "Non-Lorentzian RG flows and Supersymmetry"
 authors:
 - admin
+- Neil Lambert
 date: "2019-04-10T00:00:00Z"
 doi: "10.1007/JHEP06(2019)130"
 
