@@ -6,7 +6,7 @@ authors:
 - admin
 - Paul Richmond
 date: "2019-12-05T00:00:00Z"
-doi: "10.1007/JHEP01(2020)166
+doi: "10.1007/JHEP01(2020)166"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2019-12-05T00:00:00Z"
