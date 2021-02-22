@@ -10,7 +10,7 @@ role: PhD Student in High Energy Theoretical Physics
 
 # Organizations/Affiliations
 organizations:
-- name: King's College London
+- name: King's Colleg London
   url: "https://www.kcl.ac.uk/research/theoretical-physics"
 
 # Short bio (displayed in user profile at end of posts)
