@@ -27,9 +27,10 @@ summary:
 tags:
 featured: false
 
-# links:
-# - name: ""
-#   url: ""
+links:
+ - name: "INSPIREHEP"
+   url: "https://inspirehep.net/literature/1729117"
+
 url_pdf: https://arxiv.org/pdf/1904.05071.pdf
 url_code: ''
 url_dataset: ''
