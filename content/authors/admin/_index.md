@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Rishi Mouland
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Student in High Energy Theoretical Physics
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: King's College London
+  url: "https://www.kcl.ac.uk/research/theoretical-physics"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
