@@ -19,9 +19,11 @@ bio:
 organizations:
 - Hi
 
-interests:[]
+interests:
+- hello
 
-education:[]
+education:
+- hi there
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
