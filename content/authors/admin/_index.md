@@ -26,6 +26,6 @@ highlight_name: false
 title: Rishi Mouland
 email: ""
 ---
-I hi am a final year PhD student in the Theoretical Physics group at King's College London. My research is concerned with the study of superconformal gauge theories, often with the aim to better understand the branes of M-theory. Much of my recent work investigates non-Lorentzian Lagrangian descriptions for six-dimensional superconformal theories. Both in this work and more broadly, I am interested in the role of topological solitons in quantum field theory, particularly in the enhancement of symmetries.
+I am a final year PhD student in the Theoretical Physics group at King's College London. My research is concerned with the study of superconformal gauge theories, often with the aim to better understand the branes of M-theory. Much of my recent work investigates non-Lorentzian Lagrangian descriptions for six-dimensional superconformal theories. Both in this work and more broadly, I am interested in the role of topological solitons in quantum field theory, particularly in the enhancement of symmetries.
 
 Other interests include precision holographic approaches towards six-dimensional SCFTs, and the ever-growing intersection between Machine Learning and Theoretical Physics.
