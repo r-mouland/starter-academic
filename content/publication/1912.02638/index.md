@@ -1,13 +1,15 @@
 ---
-title: "Non-Lorentzian RG flows and Supersymmetry"
+title: "Bosonic symmetries of $(2,0)$ DLCQ field theories"
 authors:
 - Neil Lambert
+- Arthur Lipstein
 - admin
-date: "2019-04-10T00:00:00Z"
-doi: "10.1007/JHEP06(2019)130"
+- Paul Richmond
+date: "2019-12-05T00:00:00Z"
+doi: "10.1007/JHEP01(2020)166"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2019-04-10T00:00:00Z"
+publishDate: "2019-12-05T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,10 +18,10 @@ publishDate: "2019-04-10T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of High Energy Physics* **06** (2019) 130"
+publication: "*Journal of High Energy Physics* **01** (2020) 166"
 publication_short: ""
 
-abstract: We describe a general process where a non-Lorentzian rescaling of a supersymmetric field theory leads to a scale-invariant fixed point action without Lorentz invariance but where the supersymmetry is preserved or even enhanced. We apply this procedure to five-dimensional maximally supersymmetric super-Yang-Mills, leading to a field theory with 24 super(conformal) symmetries. We also apply this procedure to the BLG model with 32 super(conformal) symmetries and ABJM models with 24 super(conformal) symmetries.
+abstract:  We investigate symmetries of the six-dimensional $(2,0)$ theory reduced along a compact null direction. The action for this theory was deduced by considering M-theory on $\\text{AdS}_7 \\times S^4$ and reducing the $\\text{AdS}_7$ factor along a time-like Hopf fibration which breaks one quarter of the supersymmetry and reduces the isometry group from $SO(6,2)$ to $SU(3,1)$. The boundary theory was previously shown to have 24 supercharges and a Lifshitz scaling symmetry. In this paper, we show that it has four boost-like symmetries and an additional conformal symmetry which furnish a representation of $SU(3,1)$ when combined with the other bosonic symmetries, providing a nontrivial check of the holographic correspondence.
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -29,9 +31,9 @@ featured: false
 
 links:
  - name: "INSPIREHEP"
-   url: "https://inspirehep.net/literature/1729117"
+   url: "https://inspirehep.net/literature/1768665"
 
-url_pdf: https://arxiv.org/pdf/1904.05071.pdf
+url_pdf: https://arxiv.org/pdf/1912.02638.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
