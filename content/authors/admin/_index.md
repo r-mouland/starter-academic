@@ -12,6 +12,8 @@ role: PhD Student in High Energy Theoretical Physics
 organizations:
 - name: King's College London
   url: "https://www.kcl.ac.uk/research/theoretical-physics"
+- name: Camb
+  url: "https://www.kcl.ac.uk/research/theoretical-physics"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
