@@ -1,7 +1,6 @@
 ---
 role: PhD Student in High Energy Theoretical Physics
-bio: My researhhhch interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests string theory, M-theory and conformal field theory
 interests: null
 social:
   - icon: envelope
