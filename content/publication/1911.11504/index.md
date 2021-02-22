@@ -1,5 +1,5 @@
 ---
-title: "Supersymmetric soliton sigma-models from non-Lorentzian field theories"
+title: "Supersymmetric soliton $\\sigma$-models from non-Lorentzian field theories"
 authors:
 - Neil Lambert
 - admin
