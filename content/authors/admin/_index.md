@@ -17,7 +17,7 @@ organizations:
 bio:
 
 organizations:
-  -Hi
+- Hi
 
 interests:[]
 
