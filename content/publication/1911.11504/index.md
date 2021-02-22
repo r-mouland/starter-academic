@@ -1,5 +1,5 @@
 ---
-title: "Non-Lorentzian RG flows and Supersymmetry"
+title: "Supersymmetric soliton $\sigma$-models from non-Lorentzian field theories"
 authors:
 - Neil Lambert
 - admin
