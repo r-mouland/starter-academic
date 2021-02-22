@@ -1,6 +1,6 @@
 ---
 role: PhD Student in High Energy Theoretical Physics
-bio: My research interests include distributed robotics, mobile computing and
+bio: My researhhhch interests include distributed robotics, mobile computing and
   programmable matter.
 interests: null
 social:
