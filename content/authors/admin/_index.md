@@ -14,7 +14,7 @@ organizations:
   url: "https://www.kcl.ac.uk/research/theoretical-physics"
 
 # Short bio (displayed in user profile at end of posts)
-bio:
+bio: []
 
 organizations:
 - Hi
