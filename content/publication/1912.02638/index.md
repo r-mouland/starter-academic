@@ -21,7 +21,7 @@ publication_types: ["2"]
 publication: "*Journal of High Energy Physics* **01** (2020) 166"
 publication_short: ""
 
-abstract: We investigate symmetries of the six-dimensional $(2,0)$ theory reduced along a compact null direction. The action for this theory was deduced by considering M-theory on $\text{AdS}_7\times S^4$ and reducing the $\text{AdS}_7$ factor along a time-like Hopf fibration which breaks one quarter of the supersymmetry and reduces the isometry group from $SO(6,2)$ to $SU(3,1)$. The boundary theory was previously shown to have 24 supercharges and a Lifshitz scaling symmetry. In this paper, we show that it has four boost-like symmetries and an additional conformal symmetry which furnish a representation of $SU(3,1)$ when combined with the other bosonic symmetries, providing a nontrivial check of the holographic correspondence.
+abstract: We investigate symmetries of the six-dimensional $(2,0)$ theory reduced along a compact null direction. The action for this theory was deduced by considering M-theory on $\\text{AdS}\\_7 \\times S^4$ and reducing the $\\text{AdS}\\_7$ factor along a time-like Hopf fibration which breaks one quarter of the supersymmetry and reduces the isometry group from $SO(6,2)$ to $SU(3,1)$. The boundary theory was previously shown to have 24 supercharges and a Lifshitz scaling symmetry. In this paper, we show that it has four boost-like symmetries and an additional conformal symmetry which furnish a representation of $SU(3,1)$ when combined with the other bosonic symmetries, providing a nontrivial check of the holographic correspondence.
 
 # Summary. An optional shortened abstract.
 summary: 
