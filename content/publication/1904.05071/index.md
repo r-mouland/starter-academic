@@ -1,8 +1,8 @@
 ---
 title: "Non-Lorentzian RG flows and Supersymmetry"
 authors:
-- admin
 - Neil Lambert
+- admin
 date: "2019-04-10T00:00:00Z"
 doi: "10.1007/JHEP06(2019)130"
 
@@ -16,7 +16,7 @@ publishDate: "2019-04-10T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*JHEP* **06** (2019) 130"
 publication_short: ""
 
 abstract: We describe a general process where a non-Lorentzian rescaling of a supersymmetric field theory leads to a scale-invariant fixed point action without Lorentz invariance but where the supersymmetry is preserved or even enhanced. We apply this procedure to five-dimensional maximally supersymmetric super-Yang-Mills, leading to a field theory with 24 super(conformal) symmetries. We also apply this procedure to the BLG model with 32 super(conformal) symmetries and ABJM models with 24 super(conformal) symmetries.
@@ -25,7 +25,6 @@ abstract: We describe a general process where a non-Lorentzian rescaling of a su
 summary: 
 
 tags:
-- Source Themes
 featured: false
 
 # links:
