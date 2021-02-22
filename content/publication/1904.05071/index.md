@@ -21,7 +21,7 @@ publication_short: ""
 abstract: We describe a general process where a non-Lorentzian rescaling of a supersymmetric field theory leads to a scale-invariant fixed point action without Lorentz invariance but where the supersymmetry is preserved or even enhanced. We apply this procedure to five-dimensional maximally supersymmetric super-Yang-Mills, leading to a field theory with 24 super(conformal) symmetries. We also apply this procedure to the BLG model with 32 super(conformal) symmetries and ABJM models with 24 super(conformal) symmetries.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
 tags:
 - Source Themes
