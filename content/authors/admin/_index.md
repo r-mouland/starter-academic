@@ -1,6 +1,6 @@
 ---
 role: PhD Student in High Energy Theoretical Physics
-bio: My research interests string theory, M-theory and conformal field theory
+bio: My research interests include string theory, M-theory and conformal field theory
 interests: null
 social:
   - icon: envelope
