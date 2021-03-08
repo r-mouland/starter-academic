@@ -6,7 +6,7 @@ authors:
 - admin
 - Paul Richmond
 date: "2020-12-01T00:00:00Z"
-doi: ""
+doi: "10.1007/JHEP03(2021)053"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-12-01T00:00:00Z"
@@ -18,7 +18,7 @@ publishDate: "2020-12-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Accepted for publication in *Journal of High Energy Physics*"
+publication: "*Journal of High Energy Physics* **03** (2021) 053"
 publication_short: ""
 
 abstract: We study correlation functions in five-dimensional non-Lorentzian theories with an $SU(1,3)$ conformal symmetry. Examples of such theories have recently been obtained as $\\Omega$-deformed Yang-Mills Lagrangians arising from a null reduction of six-dimensional superconformal field theories on a conformally compactified Minkowski space. The correlators exhibit a rich structure with many novel properties compared to conventional correlators in Lorentzian conformal field theories. Moreover, identifying the instanton number with the Fourier mode number of the dimensional reduction offers a hope to formulate six-dimensional conformal field theories in terms of five-dimensional Lagrangian theories. To this end we show that the Fourier decompositions of six-dimensional correlation functions solve the Ward identities of the the $SU(1,3)$ symmetry, although more general solutions are possible. Conversely we illustrate how one can reconstruct six-dimensional correlation functions from those of a five-dimensional theory, and do so explicitly at 2- and 3-points. We also show that, in a suitable decompactification limit $\\Omega\\to 0$, the correlation functions become those of the DLCQ description.
