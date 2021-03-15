@@ -6,6 +6,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:rishim@me.com
+  - icon: inspire
+    icon_pack: ai
+    link: https://inspirehep.net/authors/1730281
 organizations:
   - name: King's College London
     url: https://www.kcl.ac.uk/research/theoretical-physics
