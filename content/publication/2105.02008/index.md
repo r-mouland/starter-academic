@@ -1,15 +1,15 @@
 ---
-title: "Five-dimensional non-Lorentzian conformal field theories and their relation to six-dimensions"
+title: "Instanton Worldlines in Five-Dimensional $\Omega$-Deformed Gauge Theory"
 authors:
 - Neil Lambert
 - Arthur Lipstein
 - admin
 - Paul Richmond
-date: "2020-12-01T00:00:00Z"
-doi: "10.1007/JHEP03(2021)053"
+date: "2021-05-05T00:00:00Z"
+# doi: "10.1007/JHEP03(2021)053"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-12-01T00:00:00Z"
+publishDate: "2021-05-05T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -18,10 +18,10 @@ publishDate: "2020-12-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of High Energy Physics* **03** (2021) 053"
+# publication: "*Journal of High Energy Physics* **03** (2021) 053"
 publication_short: ""
 
-abstract: We study correlation functions in five-dimensional non-Lorentzian theories with an $SU(1,3)$ conformal symmetry. Examples of such theories have recently been obtained as $\\Omega$-deformed Yang-Mills Lagrangians arising from a null reduction of six-dimensional superconformal field theories on a conformally compactified Minkowski space. The correlators exhibit a rich structure with many novel properties compared to conventional correlators in Lorentzian conformal field theories. Moreover, identifying the instanton number with the Fourier mode number of the dimensional reduction offers a hope to formulate six-dimensional conformal field theories in terms of five-dimensional Lagrangian theories. To this end we show that the Fourier decompositions of six-dimensional correlation functions solve the Ward identities of the the $SU(1,3)$ symmetry, although more general solutions are possible. Conversely we illustrate how one can reconstruct six-dimensional correlation functions from those of a five-dimensional theory, and do so explicitly at 2- and 3-points. We also show that, in a suitable decompactification limit $\\Omega\\to 0$, the correlation functions become those of the DLCQ description.
+abstract: We discuss the Bosonic sector of a class of supersymmetric non-Lorentzian five-dimensional gauge field theories with an $SU(1,3)$ conformal symmetry. These actions have a Lagrange multiplier which imposes a novel $\Omega$-deformed anti-self-dual gauge field constraint. Using a generalised 't Hooft ansatz we find the constraint equation linearizes allowing us to construct a wide class of explicit solutions. These include finite action configurations that describe worldlines of anti-instantons which can be created and annihilated. We also describe the dynamics on the constraint surface. 
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -31,9 +31,9 @@ featured: false
 
 links:
  - name: "INSPIREHEP"
-   url: "https://inspirehep.net/literature/1834293"
+   url: "https://inspirehep.net/literature/1862142"
 
-url_pdf: https://arxiv.org/pdf/2012.00626.pdf
+url_pdf: https://arxiv.org/pdf/2105.02008.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
