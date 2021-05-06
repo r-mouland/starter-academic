@@ -1,5 +1,5 @@
 ---
-title: "Instanton Worldlines in Five-Dimensional $\Omega$-Deformed Gauge Theory"
+title: "Instanton Worldlines in Five-Dimensional Omega-Deformed Gauge Theory"
 authors:
 - Neil Lambert
 - Arthur Lipstein
