@@ -10,7 +10,7 @@ social:
     icon_pack: ai
     link: https://inspirehep.net/authors/1730281
 organizations:
-  - name: DAMTP, University of Cambridge
+  - name: DAMTP University of Cambridge
     url: http://www.damtp.cam.ac.uk
 education:
   courses:
