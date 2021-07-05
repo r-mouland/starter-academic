@@ -28,7 +28,7 @@ highlight_name: false
 title: Rishi Mouland
 email: ""
 ---
-I am a Research Associate in the High Energy Physics group of the Department of Applied Mathematics and Theoretical Physics (DAMTP), at the University of Cambridge.
+I am a Research Associate in the [High Energy Physics](http://www.damtp.cam.ac.uk/research/hep/) group of the [Department of Applied Mathematics and Theoretical Physics](http://www.damtp.cam.ac.uk) (DAMTP), at the University of Cambridge.
 
 My interests involve a number of areas of quantum field theory and string/M-theory. Most recently, I have been looking into the use of non-Lorentzian Lagrangians towards a better understanding of superconformal gauge theories. Both in this work and more broadly, I am interested in the role of topological solitons in quantum field theory, particularly in the enhancement of symmetries.
 
