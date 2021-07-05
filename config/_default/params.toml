@@ -93,11 +93,11 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "King's College London Strand Campus", city = "London", postcode = "WC2R 2LS"}
+address = {street = "Centre for Mathematical Sciences", city = "Cambridge", postcode = "CB3 0WA"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "51.512018", longitude = "-0.116365"}
+coordinates = {latitude = "52.210726", longitude = "0.101128"}
 
 # Directions for visitors to locate you.
 #directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
