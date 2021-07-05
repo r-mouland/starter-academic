@@ -1,5 +1,5 @@
 ---
-role: PhD Student in High Energy Theoretical Physics
+role: Research Associate in High Energy Theoretical Physics
 bio: My research interests include string theory, M-theory and conformal field theory
 interests: null
 social:
@@ -10,8 +10,8 @@ social:
     icon_pack: ai
     link: https://inspirehep.net/authors/1730281
 organizations:
-  - name: King's College London
-    url: https://www.kcl.ac.uk/research/theoretical-physics
+  - name: DAMTP, University of Cambridge
+    url: http://www.damtp.cam.ac.uk
 education:
   courses:
     - course: PhD in Applied Mathematics and Theoretical Physics
@@ -28,8 +28,8 @@ highlight_name: false
 title: Rishi Mouland
 email: ""
 ---
-I am a final year PhD student in the Theoretical Physics group at King's College London. My research is concerned with the study of superconformal gauge theories, often with the aim to better understand the branes of M-theory. Much of my recent work investigates non-Lorentzian Lagrangian descriptions for six-dimensional superconformal theories. Both in this work and more broadly, I am interested in the role of topological solitons in quantum field theory, particularly in the enhancement of symmetries.
+I am a Research Associate in the [High Energy Physics](http://www.damtp.cam.ac.uk/research/hep/theoretical-high-energy-particle-physics-group) group of the Department of Applied Mathematics and Theoretical Physics (DAMTP), at the University of Cambridge.
+
+My interests involve a number of areas of quantum field theory and string/M-theory. Most recently, I have been looking into the use of non-Lorentzian Lagrangians towards a better understanding of superconformal gauge theories. Both in this work and more broadly, I am interested in the role of topological solitons in quantum field theory, particularly in the enhancement of symmetries.
 
 Other interests include precision holographic approaches towards six-dimensional SCFTs, and the ever-growing intersection between Machine Learning and Theoretical Physics.
-
-From July 2021, I will be a Research Associate at the Department of Applied Mathematics and Theoretical Physics (DAMTP), at the University of Cambridge.
