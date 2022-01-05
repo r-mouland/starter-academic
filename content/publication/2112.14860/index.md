@@ -1,5 +1,5 @@
 ---
-title: "Non-Lorentzian $SU(1,n) Spacetime Symmetry in Various Dimensions$"
+title: "Non-Lorentzian $SU(1,n)$ Spacetime Symmetry in Various Dimensions"
 authors:
 - Neil Lambert
 - admin
