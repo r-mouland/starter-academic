@@ -18,7 +18,7 @@ publishDate: "2021-09-10T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-# publication: "*Journal of High Energy Physics* **02** (2022) 151"
+publication: "*Journal of High Energy Physics* **02** (2022) 151"
 publication_short: ""
 
 abstract: In this paper we derive Ward-Takahashi identities from the path integral of supersymmetric five-dimensional field theories with an $SU(1,3)$ spacetime symmetry in the presence of instantons. We explicitly show how $SU(1,3)$ is enhanced to $SU(1,3)\\times U(1)$ where the additional $U(1)$ acts non-perturbatively. Solutions to such Ward-Takahashi identities were previously obtained from correlators of six-dimensional Lorentzian conformal field theories but where the instanton number was replaced by the momentum along a null direction. Here we study the reverse procedure whereby we construct correlation functions out of towers of five-dimensional operators which satisfy the Ward-Takahashi identities of a six-dimensional conformal field theory. This paves the way to computing observables in six dimensions using five-dimensional path integral techniques. We also argue that, once the instanton sector is included into the path integral, the coupling of the five-dimensional Lagrangian must be quantised, leaving no free continuous parameters.
