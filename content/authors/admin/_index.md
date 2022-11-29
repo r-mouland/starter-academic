@@ -30,6 +30,6 @@ email: ""
 ---
 I am a Research Associate in the [High Energy Physics](http://www.damtp.cam.ac.uk/research/hep/) group of the [Department of Applied Mathematics and Theoretical Physics](http://www.damtp.cam.ac.uk) (DAMTP) at the University of Cambridge, where I am also an affiliate of [St John's College](https://www.joh.cam.ac.uk).
 
-My interests involve a number of areas of quantum field theory and string/M-theory. Most recently, I have been looking into the use of non-Lorentzian Lagrangians towards a better understanding of superconformal gauge theories. Both in this work and more broadly, I am interested in the role of topological solitons in quantum field theory, particularly in the enhancement of symmetries.
+Much of my recent work has been concerned with the construction and study of certain quantum mechanical models that provide models of quantum gravity via holography. Such models provide a rich and relatively tractable arena to probe quantum black hole physics. Furthermore, I am interested in the amenability of such models to both classical and quantum simulation.
 
-Other interests include precision holographic approaches towards six-dimensional SCFTs, and the ever-growing intersection between Machine Learning and Theoretical Physics.
+I am also interested in novel non-Lorentzian approaches to the formulation of particular conformal field theories that lie at the heart of our understanding of string/M-theory.
