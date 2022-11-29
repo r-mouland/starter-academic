@@ -18,7 +18,7 @@ publishDate: "2021-05-05T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-# publication: "*Journal of High Energy Physics* **03** (2021) 053"
+publication: "*Journal of High Energy Physics* **09** (2021) 086"
 publication_short: ""
 
 abstract: We discuss the Bosonic sector of a class of supersymmetric non-Lorentzian five-dimensional gauge field theories with an $SU(1,3)$ conformal symmetry. These actions have a Lagrange multiplier which imposes a novel $\\Omega$-deformed anti-self-dual gauge field constraint. Using a generalised 't Hooft ansatz we find the constraint equation linearizes allowing us to construct a wide class of explicit solutions. These include finite action configurations that describe worldlines of anti-instantons which can be created and annihilated. We also describe the dynamics on the constraint surface. 
