@@ -4,7 +4,8 @@ authors:
 - Neil Lambert
 - admin
 - Tristan Orchard
-date: "2021-12-29T00:00:00Z" doi: "10.3389/fphy.2022.864800"
+date: "2021-12-29T00:00:00Z"
+doi: "10.3389/fphy.2022.864800"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-12-29T00:00:00Z"
