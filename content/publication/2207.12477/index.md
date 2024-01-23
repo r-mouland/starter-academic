@@ -5,7 +5,7 @@ authors:
 - admin
 - Boan Zhao
 date: "2022-07-25T00:00:00Z"
-# doi: "10.1007/JHEP03(2021)053"
+doi: "10.1007/JHEP06(2023)166"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-07-25T00:00:00Z"
@@ -17,7 +17,7 @@ publishDate: "2022-07-25T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-# publication: "*Journal of High Energy Physics* **03** (2021) 053"
+publication: "*Journal of High Energy Physics* **06** (2023) 166"
 publication_short: ""
 
 abstract: We provide evidence for a holographic duality between superconformal quantum mechanics on the moduli space of Yang-Mills instantons and M-theory in certain asymptotically $\text{AdS}_7\times S^4$ backgrounds with a plane-wave boundary metric. We show that the gravitational background admits a supersymmetric black hole solution whose entropy is precisely reproduced by the superconformal index of the dual quantum mechanics.
