@@ -30,6 +30,6 @@ email: ""
 ---
 I am a Research Associate in the [High Energy Physics](http://www.damtp.cam.ac.uk/research/hep/) group of the [Department of Applied Mathematics and Theoretical Physics](http://www.damtp.cam.ac.uk) (DAMTP) at the University of Cambridge, where I am also an affiliate of [St John's College](https://www.joh.cam.ac.uk).
 
-Much of my recent work has been concerned with the construction and study of certain quantum mechanical models that provide models of quantum gravity via holography. Such models provide a rich and relatively tractable arena to probe quantum black hole physics. Furthermore, I am interested in the amenability of such models to both classical and quantum simulation.
+Much of my recent work has been concerned with the construction and study of certain quantum mechanical models that provide models of quantum gravity via holography. Such models provide a rich and relatively tractable arena to probe quantum black hole physics. I am also interested in generalised notions of symmetry in quantum field theory, and how they can help us open new windows to otherwise-inaccessible UV physics.
 
-I am also interested in novel non-Lorentzian approaches to the formulation of particular conformal field theories that lie at the heart of our understanding of string/M-theory.
+
