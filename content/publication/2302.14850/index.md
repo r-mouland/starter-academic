@@ -4,7 +4,7 @@ authors:
 - Nick Dorey
 - admin
 date: "2023-02-28T00:00:00Z"
-# doi: "10.1007/JHEP03(2021)053"
+doi: "10.1007/JHEP02(2024)086"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-02-28T00:00:00Z"
@@ -16,7 +16,7 @@ publishDate: "2023-02-28T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-# publication: "*Journal of High Energy Physics* **03** (2021) 053"
+publication: "*Journal of High Energy Physics* **02** (2024) 086"
 publication_short: ""
 
 abstract: We study a limit in which a relativistic CFT reduces to conformal quantum mechanics, and relate the partition functions of the two theories. When the initial CFT is holographic, our limit coincides with an ultra-spinning limit in the gravity dual. We therefore propose that ultra-spinning black holes are dual to an appropriate ensemble in finite-dimensional conformal quantum mechanics. The limit is studied in detail for SCFTs in four and six dimensions. These theories have a superconformal index which can be computed by gluing together two or more blocks. Applying our limit to the index effectively isolates a single such block. Our results therefore suggest that ultra-spinning black holes play the role of blocks in the gravitational dual of holomorphic factorisation.
