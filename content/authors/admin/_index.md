@@ -10,10 +10,13 @@ social:
     icon_pack: ai
     link: https://inspirehep.net/authors/1730281
 organizations:
-  - name: DAMTP, University of Cambridge
-    url: http://www.damtp.cam.ac.uk
+  - name: Abdus Salam Centre for Theoretical Physics, Imperial College London
+    url: https://www.imperial.ac.uk/theoretical-physics/
 education:
   courses:
+    - course: Research Associate
+      institution: DAMTP, University of Cambridge
+      year: 2021-2024
     - course: PhD in Applied Mathematics and Theoretical Physics
       institution: King's College London
       year: 2021
