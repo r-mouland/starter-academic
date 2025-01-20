@@ -28,8 +28,8 @@ highlight_name: false
 title: Rishi Mouland
 email: ""
 ---
-I am a Research Associate in the [High Energy Physics](http://www.damtp.cam.ac.uk/research/hep/) group of the [Department of Applied Mathematics and Theoretical Physics](http://www.damtp.cam.ac.uk) (DAMTP) at the University of Cambridge, where I am also an affiliate of [St John's College](https://www.joh.cam.ac.uk).
+I am a Research Associate at the [Abdus Salam Centre for Theoretical Physics](https://www.imperial.ac.uk/theoretical-physics/) at Imperial College London.
 
 Much of my recent work has been concerned with the construction and study of certain quantum mechanical models that provide models of quantum gravity via holography. Such models provide a rich and relatively tractable arena to probe quantum black hole physics. I am also interested in generalised notions of symmetry in quantum field theory, and how they can help us open new windows to otherwise-inaccessible UV physics.
 
-Outside of research, I am involved in a few different outreach activities, through which I hope I can help to tackle some of the serious inequities in high energy theory. This includes an annual physics workshop and stall at Green Man Festival in the Brecon Beacons - come and say hi! I have also worked with King's College Maths School on string theory projects for sixth-formers.
+Outside of research, I am involved in a few different outreach activities, through which I hope I can help to inspire the next generation, as well as tackle some of the serious inequities in high energy theory. This includes an annual physics workshop and stall at Green Man Festival in the Brecon Beacons - come and say hi! I have also worked with King's College Maths School on string theory projects for sixth-formers.
